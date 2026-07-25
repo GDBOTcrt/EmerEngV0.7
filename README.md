@@ -14,3 +14,4 @@ it also Features:
 * You can Play it
 
 Its Open-Source, use it for your liking!, it sucks but.. it works :)
+<img width="1548" height="396" alt="EMERENG" src="https://github.com/user-attachments/assets/5f8609e5-5316-491d-b771-f0d50ead7314" />
